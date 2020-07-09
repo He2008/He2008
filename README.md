@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **He2008/He2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello 👋
+I'm forecho, A Web development engineer, I use JavaScript/Python.
+
+🔭 I’m currently working on Chengdu
+📫 How to reach me: he2008@outlook.com
+- 🌱 I’m currently learning C++
