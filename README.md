@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello 👋
-I'm forecho, A Web development engineer, I use JavaScript/Python.
+I'm He, A Web development engineer, I use JavaScript/Python.
 
 - 🔭 I’m currently working on Chengdu
 - 📫 How to reach me: he2008@outlook.com
