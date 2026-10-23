@@ -19,4 +19,5 @@ I'm He, A Web development engineer, I use JavaScript/Python.
 
 - 🔭 I’m currently working on Chengdu
 - 📫 How to reach me: he2008@outlook.com
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Nothing
+-  Nothing;
